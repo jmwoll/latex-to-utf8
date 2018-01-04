@@ -40,7 +40,8 @@ Currently supported symbols:
 | \\chi    		|       χ      |
 | \\psi    		|       ψ      |
 | \\omega  		|       ω      |
-| **misk**     	|              |
+| (same for uppercase) |         |
+| **misc**     	|              |
 | \\pm  		|       ±      |
 | \\ldots  		|       …      |
 | \\times  		|       ×      |
@@ -69,9 +70,38 @@ Currently supported symbols:
 | \\cap 	  	|       ∩      |
 | \\cup		  	|       ∪      |
 | \\int  		|       ∫      |
-| \\propto  	|       ∝      |
-
-
+| \\iint	  	|       ∬      |
+| \\iint	  	|       ∬      |
+| \\iiint	  	|       ∭       |
+| \\oint	  	|       ∮      |
+| \\oiint	  	|       ∯       |
+| \\oiiint	  	|       ∰       |
+| \\Approx	 	|       ≈      |
+| \\approxeq 	|       ≊       |
+| \\neq		  	|       ≠      |
+| \\equiv		|       ≡      |
+| \\Nequiv		|       ≢       |
+| \\leq			|       ≤      |
+| \\geq			|       ≥      |
+| \\Geqq		|       ≧      |
+| \\Leqq		|       ≦      |
+| \\lneqq		|       ≨       |
+| \\gneqq		|       ≩       |
+| \\ll			|       ≪      |
+| \\gg			|       ≫      |
+| \\subset		|       ⊂      |
+| \\supset		|       ⊃      |
+| \\nsubset		|       ⊄       |
+| \\nsupset		|       ⊅       |
+| \\Subseteq	|       ⊆      |
+| \\Supseteq	|       ⊇      |
+| \\oplus		|       ⊕      |
+| \\ominus		|       ⊖       |
+| \\otimes		|       ⊗       |
+| \\odot		|       ⊙      |
+| \\cdot		|       ⋅       |
+| \\diamond		|       ⋄       |
+| \\star		|       ⋆       |
 
 
 

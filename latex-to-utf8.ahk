@@ -21,7 +21,7 @@ SetCapsLockState AlwaysOff
 ~Capslock Up:: Send, {Capslock Up}
 
 ; The #If directive creates context-sensitive hotkeys and hotstrings:
-#If (A_PriorHotkey = "~Capslock Up" and A_TimeSincePriorHotkey < 2000) 
+#If (A_PriorHotkey = "~Capslock Up" and A_TimeSincePriorHotkey < 10000) 
 	; misc math symbols
     :*?C:\pm::±
     :*?C:\ldots::…
@@ -57,15 +57,15 @@ SetCapsLockState AlwaysOff
 	:*?C:\oiint::∯
 	:*?C:\oiiint::∰
 	; equal signs
-	:*?C:\approx::≈
+	:*?C:\Approx::≈
 	:*?C:\approxeq::≊
 	:*?C:\neq::≠
 	:*?C:\equiv::≡
-	:*?C:\nequiv::≢
+	:*?C:\Nequiv::≢
 	:*?C:\leq::≤
 	:*?C:\geq::≥
-	:*?C:\leqq::≦
-	:*?C:\geqq::≧
+	:*?C:\Leqq::≦
+	:*?C:\Geqq::≧
 	:*?C:\lneqq::≨
 	:*?C:\gneqq::≩
 	:*?C:\ll::≪
@@ -74,8 +74,8 @@ SetCapsLockState AlwaysOff
 	:*?C:\supset::⊃
 	:*?C:\nsubset::⊄
 	:*?C:\nsupset::⊅
-	:*?C:\subseteq::⊆
-	:*?C:\supseteq::⊇
+	:*?C:\Subseteq::⊆
+	:*?C:\Supseteq::⊇
 	:*?C:\oplus::⊕
 	:*?C:\ominus::⊖
 	:*?C:\otimes::⊗
