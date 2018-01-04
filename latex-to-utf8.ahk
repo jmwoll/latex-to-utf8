@@ -32,7 +32,7 @@ SetCapsLockState AlwaysOff
 	:*?C:\nexists::∄
 	:*?C:\varnothing::∅
 	:*?C:\varnabla::∇
-	:*?C:\in::∈
+	:*?C:\In::∈
 	:*?C:\notin::∉
 	:*?C:\ni::∋
 	:*?C:\nni::∌

@@ -11,13 +11,67 @@ Very handy if you want latex-style shortcuts in other applications.
 Currently supported symbols:
 
 
-| Symbol        | Command       | 
+| Command       | UTF-8 Symbol  | 
 | ------------- |:-------------:|
-| **greek**     | right-aligned | 
+| **greek**     |              | 
 | \\alpha       |       α      |  
 | \\beta        |       β      |  
 | \\gamma       |       γ      |  
 | \\delta       |       δ      |  
 | \\epsilon     |       ε      |  
 | \\stigma      |       ϛ      |  
- 
+| \\zeta      	|       ζ      | 
+| \\eta      	|       η      | 
+| \\theta      	|       θ      | 
+| \\iota      	|       ι      | 
+| \\kappa      	|       κ      | 
+| \\lambda      |       λ      | 
+| \\mu     		|       μ      |  
+| \\nu     		|       ν      |
+| \\xi     		|       ξ      |
+| \\omicron    	|       ο      |
+| \\pi     		|       π      |
+| \\koppa     	|       ϟ      |
+| \\rho    		|       ρ      |
+| \\sigma  		|       σ      |
+| \\tau    		|       τ      |
+| \\upsilon  	|       υ      |
+| \\phi    		|       φ      |
+| \\chi    		|       χ      |
+| \\psi    		|       ψ      |
+| \\omega  		|       ω      |
+| **misk**     	|              |
+| \\pm  		|       ±      |
+| \\ldots  		|       …      |
+| \\times  		|       ×      |
+| \\forall  	|       ∀      |
+| \\partial		|       ∂      |
+| \\exists 		|       ∃      |
+| \\nexists		|       ∄       |
+| \\varnothing	|       ∅       |
+| \\varnabla	|       ∇      |
+| \In	  		|       ∈      |
+| \\notin  		|       ∉       |
+| \\ni  		|       ∋      |
+| \\nni  		|       ∌       |
+| \\prod  		|       Π      |
+| \\coprod 		|       ∐       |
+| \\sum  		|       Σ      |
+| \\sqrt  		|       √      |
+| \\infty  		|       ∞      |
+| \\propto  	|       ∝      |
+| \\angle  		|       ∠      |
+| \\measuredangle |     ∡       |
+| \\sphericalangle |    ∢       |
+| \\rightangle  |       ∟      |
+| \\wedge	  	|       ∧      |
+| \\vee		  	|       ∨      |
+| \\cap 	  	|       ∩      |
+| \\cup		  	|       ∪      |
+| \\int  		|       ∫      |
+| \\propto  	|       ∝      |
+
+
+
+
+
