@@ -7,3 +7,17 @@ For example, pressing (meant like this: first press capslock then type out "\\-l
 which will result in the utf-8 character "λ" being printed out. Many common
 math symbols are already added, and new ones are quickly added, too.
 Very handy if you want latex-style shortcuts in other applications.
+
+Currently supported symbols:
+
+
+| Symbol        | Command       | 
+| ------------- |:-------------:|
+| **greek**     | right-aligned | 
+| \\alpha       |       α      |  
+| \\beta        |       β      |  
+| \\gamma       |       γ      |  
+| \\delta       |       δ      |  
+| \\epsilon     |       ε      |  
+| \\stigma      |       ϛ      |  
+ 
